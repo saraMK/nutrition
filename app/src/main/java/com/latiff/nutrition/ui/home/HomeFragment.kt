@@ -27,7 +27,7 @@ class HomeFragment : BaseFragment<HomeViewModel, FragmentHomeBinding>() {
 
                 if (it != null) {
                     val bundle = Bundle()
-                    bundle.putSerializable("NutritionDetails", it)
+                    bundle.putParcelable("NutritionDetails", it)
                     navController.navigate(R.id.intent_to_fragment_ingredient, bundle)
                 }
             })

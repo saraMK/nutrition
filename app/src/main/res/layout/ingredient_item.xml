@@ -115,8 +115,8 @@
             app:layout_constraintStart_toEndOf="@id/caloriesTxt"
             app:layout_constraintEnd_toStartOf="@id/view"
             android:id="@+id/caloriesValue"
-            numberRounded="@{model.nutrients.ENERC_KCAL.quantity}"
-            unitMeasure="@{model.nutrients.ENERC_KCAL.unit}"
+            numberRounded="@{model.nutrients.calories.quantity}"
+            unitMeasure="@{model.nutrients.calories.unit}"
             />
         <TextView
             android:layout_width="wrap_content"

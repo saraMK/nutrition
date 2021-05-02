@@ -19,43 +19,43 @@
         android:layout_height="match_parent"
         android:orientation="vertical"
         >
-        // callories
+
         <include layout="@layout/nutrition_item"
-            app:model="@{viewModel.nutritionDetails.ENERC_KCAL}"
+            app:model="@{viewModel.nutritionDetails.calories}"
             />
 
         <include layout="@layout/nutrition_item"
-            app:model="@{viewModel.nutritionDetails.FAT}"
+            app:model="@{viewModel.nutritionDetails.fat}"
             />
         <include layout="@layout/nutrition_item"
-            app:model="@{viewModel.nutritionDetails.CHOLE}"
+            app:model="@{viewModel.nutritionDetails.cholesterol}"
             />
         <include layout="@layout/nutrition_item"
-            app:model="@{viewModel.nutritionDetails.NA}"
+            app:model="@{viewModel.nutritionDetails.sodium}"
             />
         <include layout="@layout/nutrition_item"
-            app:model="@{viewModel.nutritionDetails.CHOCDF}"
+            app:model="@{viewModel.nutritionDetails.carbohydrate}"
             />
         <include layout="@layout/nutrition_item"
-            app:model="@{viewModel.nutritionDetails.FIBTG}"
+            app:model="@{viewModel.nutritionDetails.fiber}"
             />
         <include layout="@layout/nutrition_item"
-            app:model="@{viewModel.nutritionDetails.SUGAR}"
+            app:model="@{viewModel.nutritionDetails.sugar}"
             />
         <include layout="@layout/nutrition_item"
-            app:model="@{viewModel.nutritionDetails.PROCNT}"
+            app:model="@{viewModel.nutritionDetails.protein}"
             />
         <include layout="@layout/nutrition_item"
-            app:model="@{viewModel.nutritionDetails.VITD}"
+            app:model="@{viewModel.nutritionDetails.vitamin_D}"
             />
         <include layout="@layout/nutrition_item"
-            app:model="@{viewModel.nutritionDetails.CA}"
+            app:model="@{viewModel.nutritionDetails.calcium}"
             />
         <include layout="@layout/nutrition_item"
-            app:model="@{viewModel.nutritionDetails.K}"
+            app:model="@{viewModel.nutritionDetails.potassium}"
             />
         <include layout="@layout/nutrition_item"
-            app:model="@{viewModel.nutritionDetails.FE}"
+            app:model="@{viewModel.nutritionDetails.iron}"
             />
     </LinearLayout>
 
