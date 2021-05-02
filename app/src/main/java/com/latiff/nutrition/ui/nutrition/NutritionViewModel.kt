@@ -8,12 +8,15 @@ import com.latiff.nutrition.ui.base.BaseViewModel
 import com.latiff.nutrition.utiles.Utiles
 import javax.inject.Inject
 
-class NutritionViewModel @Inject constructor():BaseViewModel() {
-    val nutritionDetails= ObservableField<TotalNutrients> ()
+class NutritionViewModel @Inject constructor() : BaseViewModel() {
+    val nutritionDetails = ObservableField<TotalNutrients>()
+    val viewDetails = ObservableField<Boolean>(false)
 
-    fun getDelayNutritionDetails(model:NutritionDetails){
+    fun getDelayNutritionDetails(model: NutritionDetails) {
 
-
-        nutritionDetails.set(model.totalNutrients)
+        if (model.totalNutrients?.calories?.quantity != null) {
+            nutritionDetails.set(model.totalNutrients)
+            viewDetails.set(true)
+        }else errorMsg.value="check your input"
     }
 }

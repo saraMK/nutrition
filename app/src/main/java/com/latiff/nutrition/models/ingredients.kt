@@ -7,7 +7,7 @@ import java.io.Serializable
 
 @Parcelize
 data class Ingredients(
-val parsed:List<ParsedModel>
+val parsed:List<ParsedModel>?
 ): Parcelable
 
 @Parcelize
