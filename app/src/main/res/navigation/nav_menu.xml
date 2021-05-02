@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_menu"
+    app:startDestination="@id/homeFragment"
+    android:label="@string/home"
+    >
+
+    <fragment tools:layout="@layout/fragment_home"
+        android:id="@+id/homeFragment"
+        android:name="com.latiff.nutrition.ui.home.HomeFragment"
+        android:label="@string/home"
+        >
+        <action android:id="@+id/intent_to_fragment_ingredient"
+            app:destination="@id/ingredientFragment"
+            app:popUpTo="@id/homeFragment"
+
+            />
+
+
+    </fragment>
+
+
+    <fragment tools:layout="@layout/fragment_ingredient"
+        android:id="@+id/ingredientFragment"
+        android:name="com.latiff.nutrition.ui.ingredient.IngredientFragment"
+        android:label="@string/ingredient"
+        >
+        <action android:id="@+id/intent_to_fragment_nutrition"
+            app:destination="@id/nutritionFragment"
+            app:popUpTo="@id/nutritionFragment"
+
+            />
+    </fragment>
+    <fragment tools:layout="@layout/fragment_nutrition"
+        android:id="@+id/nutritionFragment"
+        android:name="com.latiff.nutrition.ui.nutrition.NutritionFragment"
+        android:label="@string/nutritionDetails"
+        />
+</navigation>

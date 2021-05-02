@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="resultss" />
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="No Filters" />
+    <option name="TOOL_WINDOW_REGEXP_FILTER" value="false" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4a5f951d-4e53-483d-917f-4c66dc7ce6bc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/app">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Nutrition" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Nutrition" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Nutrition" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Nutrition" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Data Class" />
+        <option value="navigationResourceFile" />
+        <option value="Kotlin Object" />
+        <option value="Kotlin File" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1rl6h08ucl4HnflkurHUsMqK2rL" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/debug" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.latiff.nutrition.ui.ingredient" />
+      <recent name="com.latiff.nutrition.ui" />
+    </key>
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="com.latiff.nutrition.ui" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\androidProjects\myProojects\Nutrition\app\src\debug" />
+      <recent name="E:\androidProjects\myProojects\Nutrition\app\src\main\res\layout" />
+      <recent name="E:\androidProjects\myProojects\Nutrition\app\src\main\java\com\latiff\nutrition\ui\base" />
+      <recent name="E:\androidProjects\myProojects\Nutrition\app\src\main\java\com\latiff\nutrition" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android App.app">
+    <configuration name="HomeViewModelTest.click analysis with empty lines returns error" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Nutrition.app" />
+      <shortenClasspath name="CLASSPATH_FILE" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.latiff.nutrition.ui.home.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.latiff.nutrition.ui.home" />
+      <option name="MAIN_CLASS_NAME" value="com.latiff.nutrition.ui.home.HomeViewModelTest" />
+      <option name="METHOD_NAME" value="click analysis with empty lines returns error" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeViewModelTest.click analysis with more text and empty lines returns list size equale number of texts" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Nutrition.app" />
+      <shortenClasspath name="CLASSPATH_FILE" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.latiff.nutrition.ui.home.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.latiff.nutrition.ui.home" />
+      <option name="MAIN_CLASS_NAME" value="com.latiff.nutrition.ui.home.HomeViewModelTest" />
+      <option name="METHOD_NAME" value="click analysis with more text and empty lines returns list size equale number of texts" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeViewModelTest.click analysis with text and empty lines returns text only" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Nutrition.app" />
+      <shortenClasspath name="CLASSPATH_FILE" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.latiff.nutrition.ui.home.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.latiff.nutrition.ui.home" />
+      <option name="MAIN_CLASS_NAME" value="com.latiff.nutrition.ui.home.HomeViewModelTest" />
+      <option name="METHOD_NAME" value="click analysis with text and empty lines returns text only" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeViewModelTest.click analysis with text and get nutrition details " type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Nutrition.app" />
+      <shortenClasspath name="CLASSPATH_FILE" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.latiff.nutrition.ui.home.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.latiff.nutrition.ui.home" />
+      <option name="MAIN_CLASS_NAME" value="com.latiff.nutrition.ui.home.HomeViewModelTest" />
+      <option name="METHOD_NAME" value="click analysis with text and get nutrition details " />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="Nutrition.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Nutrition:app [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/app" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Android App.app" />
+      <item itemvalue="Android JUnit.HomeViewModelTest.click analysis with empty lines returns error" />
+      <item itemvalue="Android JUnit.HomeViewModelTest.click analysis with text and empty lines returns text only" />
+      <item itemvalue="Android JUnit.HomeViewModelTest.click analysis with more text and empty lines returns list size equale number of texts" />
+      <item itemvalue="Android JUnit.HomeViewModelTest.click analysis with text and get nutrition details " />
+      <item itemvalue="Gradle.Nutrition:app [build]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.Nutrition:app [build]" />
+        <item itemvalue="Android JUnit.HomeViewModelTest.click analysis with text and get nutrition details " />
+        <item itemvalue="Android JUnit.HomeViewModelTest.click analysis with empty lines returns error" />
+        <item itemvalue="Android JUnit.HomeViewModelTest.click analysis with more text and empty lines returns list size equale number of texts" />
+        <item itemvalue="Android JUnit.HomeViewModelTest.click analysis with text and empty lines returns text only" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a5f951d-4e53-483d-917f-4c66dc7ce6bc" name="Default Changelist" comment="" />
+      <created>1619538444059</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619538444059</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="370" y="30" key="#HomeViewModelTest.click_analysis__with_empty_text_returns_error" timestamp="1619884119387">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="370" y="30" key="#HomeViewModelTest.click_analysis__with_empty_text_returns_error/0.0.1536.824@0.0.1536.824" timestamp="1619884119387" />
+    <state x="7" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1619895686050">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="7" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1619895686050" />
+    <state x="100" y="100" width="1336" height="624" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1619891505075">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="100" y="100" width="1336" height="624" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1536.824@0.0.1536.824" timestamp="1619891505075" />
+    <state x="560" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1619882022884">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="560" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1619882022884" />
+    <state x="548" y="203" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1619730131361">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="203" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1619730131361" />
+    <state x="349" y="167" key="AndroidCreateResourceFileDialog" timestamp="1619908987836">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="349" y="167" key="AndroidCreateResourceFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1619908987836" />
+    <state x="614" y="215" key="AndroidCreateXmlResourceDialog" timestamp="1619911630937">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="614" y="215" key="AndroidCreateXmlResourceDialog/0.0.1536.824@0.0.1536.824" timestamp="1619911630937" />
+    <state x="549" y="166" key="FileChooserDialogImpl" timestamp="1619900888819">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="166" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1619900888819" />
+    <state width="1476" height="324" key="GridCell.Tab.0.bottom" timestamp="1619913347181">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1476" height="324" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1619913347181" />
+    <state width="1476" height="324" key="GridCell.Tab.0.center" timestamp="1619913347181">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1476" height="324" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1619913347181" />
+    <state width="1476" height="324" key="GridCell.Tab.0.left" timestamp="1619913347181">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1476" height="324" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1619913347181" />
+    <state width="1476" height="324" key="GridCell.Tab.0.right" timestamp="1619913347181">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1476" height="324" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1619913347181" />
+    <state x="474" y="116" width="595" height="592" key="find.popup" timestamp="1619912042488">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="474" y="116" width="595" height="592" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1619912042488" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1619912311539">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1619912311539" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Nutrition$HomeViewModelTest_click_analysis_with_text_and_empty_lines_returns_text_only.ic" NAME="HomeViewModelTest.click analysis with text and empty lines returns text only Coverage Results" MODIFIED="1619892907712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.latiff.nutrition.ui.home.*</FILTER>
+    </SUITE>
+  </component>
+</project>

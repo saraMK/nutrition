@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <data>
+        <import type="android.view.View" />
+        <variable
+            name="viewModel"
+            type="com.latiff.nutrition.ui.home.HomeViewModel" />
+    </data>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".ui.home.HomeFragment"
+        android:orientation="vertical"
+      >
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true"
+        >
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.home.HomeFragment"
+    android:orientation="vertical"
+    android:gravity="center"
+     android:padding="20dp">
+
+     <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/ingr_hint"
+         android:text="@={viewModel.ingredients}"
+         android:id="@+id/text"
+         android:layout_centerInParent="true"
+         setErrorMsg="@{viewModel.errorMsgField}"
+         />
+<Button
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="@string/analyes"
+    android:onClick="@{()->viewModel.analysisIngredients()}"
+    android:layout_below="@id/text"
+     android:layout_centerHorizontal="true"
+
+    />
+
+</LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+        <include layout="@layout/loader"
+            app:viewModel="@{viewModel}"/>
+    </RelativeLayout>
+</layout>
