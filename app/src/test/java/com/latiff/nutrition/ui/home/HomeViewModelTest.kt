@@ -84,15 +84,5 @@ class HomeViewModelTest {
 
     }
 
-    @Test
-    fun `click analysis with text and no Connection return no connection msg`() {
-        val text ="1 cup rice"
-        val list= mutableListOf(text)
-        val modelRequest=AnalysisModelRequest(list)
-        runBlocking {
-            val result=  viewModel.repo.analysisIngredients(modelRequest)
-            assertThat(result).isEqualTo(ResultWrapper.Success(NutritionDetails()))
-        }
 
-    }
 }
