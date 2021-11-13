@@ -6,7 +6,7 @@
     </shared>
   </component>
   <component name="AndroidLogFilters">
-    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="resultss" />
+    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="OkHttp:" />
     <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="No Filters" />
     <option name="TOOL_WINDOW_REGEXP_FILTER" value="false" />
@@ -17,24 +17,29 @@
       <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/jarAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fujiyuu75_sequent_0_2_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fujiyuu75_sequent_0_2_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_bumptech_glide_gifdecoder_4_9_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_bumptech_glide_gifdecoder_4_9_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_bumptech_glide_glide_4_9_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_bumptech_glide_glide_4_9_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_makeramen_roundedimageview_2_3_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_makeramen_roundedimageview_2_3_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/Nutrition.app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/Nutrition.app.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/latiff/nutrition/models/ingredients.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/latiff/nutrition/models/ingredients.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/latiff/nutrition/ui/ingredient/IngredientViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/latiff/nutrition/ui/ingredient/IngredientViewModel.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/latiff/nutrition/ui/nutrition/NutritionViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/latiff/nutrition/ui/nutrition/NutritionViewModel.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_nutrition.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_nutrition.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/app/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[4200c93bee04a3d7]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -103,7 +108,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/debug" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Ahmed Adel Ismail Projects/Movies" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
@@ -322,66 +327,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="370" y="30" key="#HomeViewModelTest.click_analysis__with_empty_text_returns_error" timestamp="1619884119387">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1636804952825">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="370" y="30" key="#HomeViewModelTest.click_analysis__with_empty_text_returns_error/0.0.1536.824@0.0.1536.824" timestamp="1619884119387" />
-    <state x="7" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1619895686050">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="7" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1619895686050" />
-    <state x="100" y="100" width="1336" height="624" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1619891505075">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="100" y="100" width="1336" height="624" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1536.824@0.0.1536.824" timestamp="1619891505075" />
-    <state x="560" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1619882022884">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="560" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1619882022884" />
-    <state x="548" y="203" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1619730131361">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="548" y="203" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1619730131361" />
-    <state x="349" y="167" key="AndroidCreateResourceFileDialog" timestamp="1619908987836">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="349" y="167" key="AndroidCreateResourceFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1619908987836" />
-    <state x="614" y="215" key="AndroidCreateXmlResourceDialog" timestamp="1619911630937">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="614" y="215" key="AndroidCreateXmlResourceDialog/0.0.1536.824@0.0.1536.824" timestamp="1619911630937" />
-    <state x="549" y="166" key="FileChooserDialogImpl" timestamp="1619900888819">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="549" y="166" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1619900888819" />
-    <state width="1476" height="324" key="GridCell.Tab.0.bottom" timestamp="1619923385726">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1476" height="324" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1619923385726" />
-    <state width="1476" height="324" key="GridCell.Tab.0.center" timestamp="1619923385726">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1476" height="324" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1619923385726" />
-    <state width="1476" height="324" key="GridCell.Tab.0.left" timestamp="1619923385726">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1476" height="324" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1619923385726" />
-    <state width="1476" height="324" key="GridCell.Tab.0.right" timestamp="1619923385726">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1476" height="324" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1619923385726" />
-    <state x="474" y="116" width="595" height="592" key="find.popup" timestamp="1619921849929">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="474" y="116" width="595" height="592" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1619921849929" />
-    <state x="426" y="189" key="run.anything.popup" timestamp="1619919293160">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="426" y="189" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1619919293160" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1619912311539">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1619912311539" />
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1636804952825" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Nutrition$HomeViewModelTest_click_analysis_with_text_and_empty_lines_returns_text_only.ic" NAME="HomeViewModelTest.click analysis with text and empty lines returns text only Coverage Results" MODIFIED="1619892907712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
